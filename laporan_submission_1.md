@@ -246,23 +246,23 @@ Karena proyek ini merupakan kasus klasifikasi biner (memprediksi apakah pasien m
 1. Accuracy
 Mengukur proporsi prediksi yang benar terhadap seluruh data.
 • Formula:
-\text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN}
+$\text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN}$
 • Cocok digunakan saat distribusi kelas seimbang, tetapi kurang informatif jika dataset imbalanced, seperti pada kasus ini.
 2. Precision
 Mengukur seberapa akurat prediksi positif model.
 • Formula:
-\text{Precision} = \frac{TP}{TP + FP}
+$\text{Precision} = \frac{TP}{TP + FP}$
 • Artinya: Dari semua yang diprediksi positif diabetes, berapa yang benar-benar positif. Berguna saat kita ingin meminimalkan false positive.
 3. Recall (Sensitivity)
 Mengukur kemampuan model dalam menemukan semua kasus positif.
 • Formula:
-\text{Recall} = \frac{TP}{TP + FN}
+$\text{Recall} = \frac{TP}{TP + FN}$
 • Artinya: Dari semua pasien yang benar-benar positif diabetes, berapa yang berhasil terdeteksi oleh model.
 • Dalam kasus ini, recall sangat penting, karena salah tidak mendeteksi pasien diabetes bisa berdampak serius.
 4. F1-Score
 Rata-rata harmonis antara precision dan recall.
 • Formula:
-\text{F1} = 2 \times \frac{Precision \times Recall}{Precision + Recall}
+$\text{F1} = 2 \times \frac{Precision \times Recall}{Precision + Recall}$
 • Berguna untuk menyeimbangkan precision dan recall terutama saat distribusi data tidak seimbang.
 5. AUC (Area Under Curve – ROC)
 Mengukur kemampuan model dalam membedakan kelas 0 dan 1 secara keseluruhan.
