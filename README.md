@@ -1,3 +1,11 @@
+![visualisasi distribusi jumlah genre per film](https://github.com/user-attachments/assets/5fb9bb15-ed53-4e8d-9171-24f67ae76d43)
+
+
+
+
+
+
+
 ![distribusi_kelas](https://github.com/user-attachments/assets/f5d0d7f1-b1a2-40db-b453-81439a342979)
 
 ![heatmap](https://github.com/user-attachments/assets/46721b09-60d2-4564-ab28-cf4449ea30bb)
