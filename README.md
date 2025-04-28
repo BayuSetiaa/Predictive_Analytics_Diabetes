@@ -1,9 +1,16 @@
 ![visualisasi distribusi jumlah genre per film](https://github.com/user-attachments/assets/5fb9bb15-ed53-4e8d-9171-24f67ae76d43)
 
 
+![10 film popularitas tertinggi](https://github.com/user-attachments/assets/006a4824-8716-452a-a48e-5351faf315b0)
 
 
+![10 film rating tertinggi](https://github.com/user-attachments/assets/98936047-37b2-4d26-aa14-522fbdaa70a3)
 
+
+![Boxplot cek outliers](https://github.com/user-attachments/assets/ea592453-f4fb-4123-9657-a6396b98b56c)
+
+
+![korelasi fitur numerik](https://github.com/user-attachments/assets/1e0b94c3-5b92-4f4e-8045-4d5272e46997)
 
 
 ![distribusi_kelas](https://github.com/user-attachments/assets/f5d0d7f1-b1a2-40db-b453-81439a342979)
