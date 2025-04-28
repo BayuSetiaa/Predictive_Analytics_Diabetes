@@ -29,6 +29,17 @@
 
 
 
+**Formula Evaluasi:**
+
+- **Precision@k** = (Jumlah rekomendasi yang relevan dalam top-k) / (k)
+
+- **Recall@k** = (Jumlah rekomendasi yang relevan dalam top-k) / (Jumlah total film relevan)
+
+- **F1@k** = 2 × (Precision@k × Recall@k) / (Precision@k + Recall@k)
+
+- **MAP@k** = Rata-rata dari Average Precision semua film
+
+
 
 
 ![visualisasi distribusi jumlah genre per film](https://github.com/user-attachments/assets/5fb9bb15-ed53-4e8d-9171-24f67ae76d43)
