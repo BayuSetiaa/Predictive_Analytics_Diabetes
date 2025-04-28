@@ -30,6 +30,7 @@
 
 
 
+
 ![visualisasi distribusi jumlah genre per film](https://github.com/user-attachments/assets/5fb9bb15-ed53-4e8d-9171-24f67ae76d43)
 
 
