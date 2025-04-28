@@ -7,18 +7,20 @@
   $$
 
 
-- Recall@k:
+Recall@k:
   
   $$
   \text{Recall@k} = \frac{\text{Jumlah rekomendasi yang relevan dalam top-k}}{\text{Jumlah total film relevan}}
   $$
 
 
-- F1@k:
+
+
+F1@k:
   
-  $$
+  $
   \text{F1@k} = 2 \times \frac{\text{Precision@k} \times \text{Recall@k}}{\text{Precision@k} + \text{Recall@k}}
-  $$
+  $
 
 
 - MAP@k (Mean Average Precision@k):
