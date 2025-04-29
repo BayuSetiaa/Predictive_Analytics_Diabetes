@@ -1,4 +1,15 @@
 
+
+![flowchart sistem rekomendasi](https://github.com/user-attachments/assets/6edebc91-1329-4dff-8795-40d7e2980f3c)
+
+
+
+
+
+
+
+
+
 ![visualisasi evaluasi performa](https://github.com/user-attachments/assets/f22f1ea4-9aed-43f7-938a-17d70e64f7ad)
 
 
