@@ -1,3 +1,34 @@
+
+![visualisasi evaluasi performa](https://github.com/user-attachments/assets/f22f1ea4-9aed-43f7-938a-17d70e64f7ad)
+
+
+
+![visualisasi evaluasi average precision](https://github.com/user-attachments/assets/a72ff241-bc36-40ed-884d-280d2168931b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### **Formula Evaluasi:**
 
 **Precision@k:**
